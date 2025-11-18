@@ -14,7 +14,7 @@ A tool to visualize and edit trees (like decision trees). This is a project i am
 ### 🔢 Neural Network to classify handwritten numbers (0 - 9)
 An application that allows the user to draw a number and the network will try to recognize this number. I am working on this for fun
 *Tech:* Java, Maven,  
-➡️ Repo: not on github yet
+➡️ Repo: \[Neural Network]\ (https://github.com/daviddamaschin2/Neural-Network-Handwritten-Number.git)
 
 ---
 
